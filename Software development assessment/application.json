@@ -1,0 +1,18 @@
+[
+    {
+    "application_id":"APP001",
+    "req_id":"REQ001",
+    "candidate_name":"JohnDoe",
+    "status":"Applied",
+    "applied_date":"2024-05-02",
+    "resume":"URL_TO_RESUME"
+    },
+    {
+    "application_id":"APP002",
+    "req_id":"REQ002",
+    "candidate_name":"JaneSmith",
+    "status":"Interviewing",
+    "applied_date":"2024-05-16",
+    "resume":"URL_TO_RESUME"
+    }
+]

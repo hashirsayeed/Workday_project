@@ -1,0 +1,18 @@
+[
+    {
+    "req_id": "REQ001",
+    "title": "Software Engineer",
+    "description": "Develop and maintain software applications.",
+    "location": "New York, NY",
+    "department": "Engineering",
+    "posted_date": "2024-05-01"
+    },
+    {
+    "req_id": "REQ002",
+    "title": "Data Analyst",
+    "description": "Analyze data to support business decisions.",
+   "location":"SanFrancisco,CA",
+    "department":"DataScience",
+    "posted_date":"2024-05-15"
+    }
+]

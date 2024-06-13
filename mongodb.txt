@@ -1,0 +1,5 @@
+username = hashirsayeed
+
+password = W7mgODAvAxN0Wyrx
+
+mongodb+srv://hashirsayeed:W7mgODAvAxN0Wyrx@cluster0.hadfslk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
